@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xdliuonefly.github.io/"/>
-  <updated>2017-06-04T08:01:58.000Z</updated>
+  <updated>2017-06-06T05:10:57.000Z</updated>
   <id>http://xdliuonefly.github.io/</id>
   
   <author>
@@ -14,6 +14,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>标题较长更吸引人</title>
+    <link href="http://xdliuonefly.github.io/2017/06/06/%E6%A0%87%E9%A2%98%E8%BE%83%E9%95%BF%E6%9B%B4%E5%90%B8%E5%BC%95%E4%BA%BA/"/>
+    <id>http://xdliuonefly.github.io/2017/06/06/标题较长更吸引人/</id>
+    <published>2017-06-06T04:59:33.000Z</published>
+    <updated>2017-06-06T05:10:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="" alt="">a a a a a a a sdd顶顶顶顶的的的的 的的的 的这里是摘要<br><a id="more"></a><br>这里是正文啊啊啊啊啊啊啊啊啊啊啊啊   啊             啊啊啊啊啊啊</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;img src=&quot;&quot; alt=&quot;&quot;&gt;a a a a a a a sdd顶顶顶顶的的的的 的的的 的这里是摘要&lt;br&gt;
+    
+    </summary>
+    
+      <category term="交互设计" scheme="http://xdliuonefly.github.io/categories/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="sketch" scheme="http://xdliuonefly.github.io/tags/sketch/"/>
+    
+      <category term="交互设计" scheme="http://xdliuonefly.github.io/tags/%E4%BA%A4%E4%BA%92%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>filename</title>
